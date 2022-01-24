@@ -10,7 +10,7 @@
 	"transactionExplorer": "http://blockexplorer.lozzax.xyz/tx/{id}",
 	"daemonType": "default",
 	"cnAlgorithm": "randomx",
-	"cnVariant": 20,
+	"cnVariant": 21,
 	"cnBlobType": 0,
 	"includeHeight": true,
 	"isRandomX": true,
